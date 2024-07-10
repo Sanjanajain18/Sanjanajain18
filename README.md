@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,flutter,dart,html,css,vscode,github,vb.net,android" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,c#,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,c++,java,mysql" /><br>
 </div>
 
 <br/>
@@ -52,8 +52,11 @@
 
 <br/>
 
+
+
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;'border='0' alt='Thanks for visiting' /></a>
+    <p style="font-size: 24px; font-weight: bold; margin: 0;">🌟 Thanks for visiting! 🌟</p
 </div>
+
 
 <br/>
